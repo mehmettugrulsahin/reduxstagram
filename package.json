@@ -1,22 +1,19 @@
 {
-  "name": "learn-redux",
+  "name": "reduxstagram-react-redux-es6",
   "version": "1.0.0",
-  "description": ":) ",
   "scripts": {
     "build:webpack": "NODE_ENV=production webpack --config webpack.config.prod.js",
     "build": "npm run clean && npm run build:webpack",
     "test": "NODE_ENV=production mocha './tests/**/*.spec.js' --compilers js:babel-core/register",
     "clean": "rimraf dist",
-    "start": "node devServer.js",
-    "tunnel": "browser-sync start --proxy localhost:7770 --tunnel wesbos"
+    "start": "node devServer.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wesbos/Learn-Redux.git"
+    "url": "https://github.com/mehmettugrulsahin/reduxstagram-react-redux-webpack.git"
   },
-  "author": "Wes Bos",
+  "author": "Mehmet Tuğrul Şahin",
   "license": "MIT",
-  "homepage": "https://github.com/wesbos/Learn-Redux",
   "dependencies": {
     "babel-core": "^6.7.7",
     "babel-eslint": "^6.0.4",
