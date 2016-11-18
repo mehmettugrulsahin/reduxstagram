@@ -1,13 +1,35 @@
-# Learn Redux
+# A simple React Redux implementation
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+This is a demo built with [React](https://facebook.github.io/react/), [Redux](http://redux.js.org/docs/introduction/), ES6 and [Webpack](https://webpack.github.io/). It illustrates storing state in one place via Redux, and then using controllers to "glue" that state to the views.
 
-## Running
+## Install Node
+You will need `node` (```brew install node``` or https://nodejs.org/en/) and ```npm```.
+Application runs with the latest ```v7.0.0``` version of node.
 
-First `npm install` to grab all the necessary dependencies. 
+## Install Yarn
+Install Yarn with ```npm install -g yarn``` or ```sudo npm install -g yarn```
 
-Then run `npm start` and open <localhost:7770> in your browser.
+## Clone repo
+```bash
+git clone https://github.com/mehmettugrulsahin/reduxstagram-react-redux-webpack.git
 
-## Production Build
+cd reduxstagram-react-redux-webpack
+```
 
-Run `npm build` to create a distro folder and a bundle.js file.
+## Install packages
+```
+yarn install
+```
+
+## Start
+```
+yarn start
+```
+
+## Run
+Checkout command prompt to see the following
+```
+webpack: bundle is now VALID.
+```
+
+Navigate to [localhost](http://localhost:7770)

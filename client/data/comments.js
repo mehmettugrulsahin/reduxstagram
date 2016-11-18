@@ -16,7 +16,7 @@ const comments = {
     },
     {
       'text':'@jdaveknox yes!',
-      'user': 'wesbos'
+      'user': 'tugrul'
     },
     {
       'text':'😍 love Hamilton!',
@@ -37,7 +37,7 @@ const comments = {
       'user': 'henrihelvetica'
     },
     {
-      'text':'@wesbos 👍 my daughter is a pancake eating machine!',
+      'text':'@tugrul 👍 my daughter is a pancake eating machine!',
       'user': 'brentoage'
     },
     {
@@ -50,11 +50,11 @@ const comments = {
     },
     {
       'text':'@gobananna I just made a batch and put in in a FIFO bottle. Keeps in the fridge for a few days.',
-      'user': 'wesbos'
+      'user': 'tugrul'
     },
     {
       'text':'@haaps thanks! It\'s a Jenn air - so nice to cool with!',
-      'user': 'wesbos'
+      'user': 'tugrul'
     },
     {
       'text':'Where would you go and for how long, if you had location freedom? - Greg 🌎',
@@ -80,19 +80,19 @@ const comments = {
     },
     {
       'text':'@axcdnt that is where I put all the junk. I\'ll have to clean that side too @henrihelvetica no podcast yet! @pmgllc ohh yeah! @alexbaumgertner yep - the main one is 4K - I\'m loving it',
-      'user': 'wesbos'
+      'user': 'tugrul'
     },
     {
       'text':'That chrome pillow. 😉',
       'user': 'imagesofthisandthat'
     },
     {
-      'text':'@wesbos is that the Dell 4k? The MacBook Pro powers it well? I also have a Retina™ / x1 setup as well. Very handy.',
+      'text':'@tugrul is that the Dell 4k? The MacBook Pro powers it well? I also have a Retina™ / x1 setup as well. Very handy.',
       'user': 'henrihelvetica'
     },
     {
       'text':'#minimalsetups',
-      'user': 'wesbos'
+      'user': 'tugrul'
     }
   ],
   '_4jHytwcUA':[
@@ -138,7 +138,7 @@ const comments = {
     },
     {
       'text':'@tjholowaychuk2 haha yes! Old school stylez!',
-      'user': 'wesbos'
+      'user': 'tugrul'
     }
   ],
   '_KnU7MwceA':[
@@ -198,11 +198,11 @@ const comments = {
   ],
   'hZh6IQcfN':[
     {
-      'text':'What do we gotta do to get some :)? @wesbos',
+      'text':'What do we gotta do to get some :)? @tugrul',
       'user': 'jonasbad'
     },
     {
-      'text':'Might drop by today - real quick. Trade you an illegal pin for these? Lol. @wesbos',
+      'text':'Might drop by today - real quick. Trade you an illegal pin for these? Lol. @tugrul',
       'user': 'henrihelvetica'
     },
     {
@@ -211,7 +211,7 @@ const comments = {
     },
     {
       'text':'@jonasbad @datamoshr I\'ll post them up on my blog soon!',
-      'user': 'wesbos'
+      'user': 'tugrul'
     },
     {
       'text':'Want',
@@ -285,7 +285,7 @@ const comments = {
     },
     {
       'text':'@br11x I did a teespring a few months ago - maybe I\'ll do another one soon',
-      'user': 'wesbos'
+      'user': 'tugrul'
     }
   ],
   'B3eiIwcYV':[
