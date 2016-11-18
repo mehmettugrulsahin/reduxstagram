@@ -1,6 +1,7 @@
 {
   "name": "reduxstagram-react-redux-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "Reduxstagram",
   "scripts": {
     "build:webpack": "NODE_ENV=production webpack --config webpack.config.prod.js",
     "build": "npm run clean && npm run build:webpack",
@@ -8,12 +9,30 @@
     "clean": "rimraf dist",
     "start": "node devServer.js"
   },
+  "keywords": [
+    "react",
+    "redux",
+    "webpack",
+    "es6"
+  ],  
   "repository": {
     "type": "git",
-    "url": "https://github.com/mehmettugrulsahin/reduxstagram-react-redux-webpack.git"
+    "url": "https://github.com/mehmettugrulsahin/reduxstagram-react-redux-es6.git"
   },
-  "author": "Mehmet Tuğrul Şahin",
   "license": "MIT",
+  "homepage": "https://github.com/mehmettugrulsahin/reduxstagram-react-redux-es6",
+  "author": {
+    "name": "Mehmet Tuğrul Şahin",
+    "url": "https://github.com/mehmettugrulsahin",
+    "email": "mehmettugrulsahin@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Mehmet Tuğrul Şahin",
+      "url": "https://github.com/mehmettugrulsahin",
+      "email": "mehmettugrulsahin@gmail.com"
+    }
+  ],  
   "dependencies": {
     "babel-core": "^6.7.7",
     "babel-eslint": "^6.0.4",
