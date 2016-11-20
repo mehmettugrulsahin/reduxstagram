@@ -13,7 +13,7 @@ Install Yarn with ```npm install -g yarn``` or ```sudo npm install -g yarn```
 ```bash
 git clone https://github.com/mehmettugrulsahin/reduxstagram-react-redux-webpack.git
 
-cd reduxstagram-react-redux-webpack
+cd reduxstagram-react-redux-es6
 ```
 
 ## Install packages
@@ -27,9 +27,4 @@ yarn start
 ```
 
 ## Run
-Checkout command prompt to see the following
-```
-webpack: bundle is now VALID.
-```
-
 Navigate to [localhost](http://localhost:7770)
