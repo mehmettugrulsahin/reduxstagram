@@ -4,7 +4,7 @@ This is a demo built with [React](https://facebook.github.io/react/), [Redux](ht
 
 ## Install Node
 You will need `node` (```brew install node``` or https://nodejs.org/en/) and ```npm```.
-Application runs with the latest ```v7.0.0``` version of node.
+Application runs with the latest ```v7.1.0``` version of node.
 
 ## Install Yarn
 Install Yarn with ```npm install -g yarn``` or ```sudo npm install -g yarn```
@@ -13,7 +13,7 @@ Install Yarn with ```npm install -g yarn``` or ```sudo npm install -g yarn```
 ```bash
 git clone https://github.com/mehmettugrulsahin/reduxstagram-react-redux-webpack.git
 
-cd reduxstagram-react-redux-webpack
+cd reduxstagram-react-redux-es6
 ```
 
 ## Install packages
@@ -27,9 +27,4 @@ yarn start
 ```
 
 ## Run
-Checkout command prompt to see the following
-```
-webpack: bundle is now VALID.
-```
-
 Navigate to [localhost](http://localhost:7770)
