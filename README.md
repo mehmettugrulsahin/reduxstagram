@@ -16,7 +16,6 @@ git clone https://github.com/mehmettugrulsahin/reduxstagram-react-redux-webpack.
 cd reduxstagram-react-redux-es6
 ```
 
-
 ## Install packages
 ```
 yarn install
