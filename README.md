@@ -2,6 +2,7 @@
 
 This is a demo built with [React](https://facebook.github.io/react/), [Redux](http://redux.js.org/docs/introduction/), ES6 and [Webpack](https://webpack.github.io/). It illustrates storing state in one place via Redux, and then using controllers to "glue" that state to the views.
 
+
 ## Install Node
 You will need `node` (```brew install node``` or https://nodejs.org/en/) and ```npm```.
 Application runs with the latest ```v7.1.0``` version of node.
